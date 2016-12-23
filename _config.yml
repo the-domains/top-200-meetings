@@ -1,0 +1,28 @@
+typography_spectrum: 0.27212616137560863
+color:
+  brandStrength: 0.7997909841299204
+  lightness: 0.6402806917441511
+  saturation: 0.06571095463727591
+  rhythmicContrast: 0.677070353146329
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+github: true
+layout_spectrum: 0.1619084732578422
+author:
+  name: Henrik Sidenius
+  email: hsi@circlesofbusiness.com
+  url: www.circlesofbusiness.com
+name: Top 200 meetings
+title: Care to join us?
+content: []
+description: >-
+  We are in the process of making auditions for business meetings with Top 200
+  companies. 
+purpose:
+  - type: contact
+    url: 'mailto:hsi@circlesofbusiness.com'
+    label: Sign up
