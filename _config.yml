@@ -28,6 +28,6 @@ description: >-
 purpose:
   - type: contact
     url: 'mailto:hsi@circlesofbusiness.com'
-    label: Sign up
+    label: 'Kontakt mig på: '
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/89a85bac-73c3-4d22-9ac3-f6a616865e86.jpg
