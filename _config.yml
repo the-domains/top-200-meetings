@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -53,6 +52,6 @@ description: >-
 purpose:
   - type: contact
     url: 'mailto:hsi@circlesofbusiness.com'
-    label: 'Kontakt mig på: '
+    label: Kontakt mig og skriv hvilke emner du er interesseret i?
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/89a85bac-73c3-4d22-9ac3-f6a616865e86.jpg
